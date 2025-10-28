@@ -1,0 +1,69 @@
+[
+    {
+        "AC123": {
+            "maintenance_logs": [
+                {
+                    "date": "2024-01-22",
+                    "description": "Landing gear inspection"
+                },
+                {
+                    "date": "2024-02-15",
+                    "description": "Hydraulic system check"
+                }
+            ],
+            "type": "Airbus A320"
+        },
+        "AC421": {
+            "maintenance_logs": [
+                {
+                    "date": "2024-03-11",
+                    "description": "Routine"
+                }
+            ],
+            "type": "Airbus A320"
+        },
+        "AC456": {
+            "maintenance_logs": [
+                {
+                    "date": "2025-03-07",
+                    "description": "Routine check"
+                },
+                {
+                    "date": "2025-03-25",
+                    "description": "Checked right engine"
+                }
+            ],
+            "type": "Boeing 737"
+        },
+        "AC639": {
+            "maintenance_logs": [
+                {
+                    "date": "2025-01-01",
+                    "description": "Routine check"
+                },
+                {
+                    "date": "2025-02-06",
+                    "description": "Check"
+                },
+                {
+                    "date": "2025-04-01",
+                    "description": "Monthly check"
+                },
+                {
+                    "date": "2025-04-03",
+                    "description": "Checked left engine"
+                }
+            ],
+            "type": "Airbus A320"
+        },
+        "AC900": {
+            "maintenance_logs": [
+                {
+                    "date": "2025-03-10",
+                    "description": "Fixed tires"
+                }
+            ],
+            "type": "Boeing 777"
+        }
+    }
+]

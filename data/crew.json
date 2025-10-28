@@ -1,0 +1,50 @@
+{
+    "flight_attendants": [
+        {
+            "assignedFlights": [
+                "UA780"
+            ],
+            "id": "FA101",
+            "name": "Alice Johnson",
+            "totalFlightHours": 30.0
+        },
+        {
+            "assignedFlights": [
+                "UA780"
+            ],
+            "id": "FA102",
+            "name": "Bob Brown",
+            "totalFlightHours": 25.0
+        },
+        {
+            "assignedFlights": [
+                "DL222",
+                "UA789"
+            ],
+            "id": "FA103",
+            "name": "Charlie Davis",
+            "totalFlightHours": 10.0
+        }
+    ],
+    "pilots": [
+        {
+            "assignedFlights": [
+                "UA780",
+                "AA123",
+                "UA789",
+                "BA456"
+            ],
+            "id": "P101",
+            "name": "John David",
+            "totalFlightHours": 12.0
+        },
+        {
+            "assignedFlights": [
+                "DL222"
+            ],
+            "id": "P102",
+            "name": "Alisson Smith",
+            "totalFlightHours": 4.0
+        }
+    ]
+}

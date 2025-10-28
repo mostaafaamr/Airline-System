@@ -1,0 +1,101 @@
+[
+    {
+        "boardingTime": "07:30",
+        "flightNumber": "BA456",
+        "gate": "B12",
+        "passengerId": "P512",
+        "passengerName": "John Doe",
+        "price": 250.0,
+        "reservationId": "R1001",
+        "seatNumber": "12A",
+        "status": "Checked-In"
+    },
+    {
+        "boardingTime": "12:30",
+        "flightNumber": "AA123",
+        "gate": "A9",
+        "passengerId": "P34",
+        "passengerName": "Jane smith",
+        "price": 320.0,
+        "reservationId": "R1002",
+        "seatNumber": "5C",
+        "status": "Pending"
+    },
+    {
+        "boardingTime": "06:00",
+        "flightNumber": "UA789",
+        "gate": "C5",
+        "passengerId": "P512",
+        "passengerName": "John Doe",
+        "price": 450.0,
+        "reservationId": "R1003",
+        "seatNumber": "22F",
+        "status": "Confirmed"
+    },
+    {
+        "boardingTime": "07:30",
+        "flightNumber": "BA456",
+        "gate": "B12",
+        "passengerId": "P123",
+        "passengerName": "Mike Smith",
+        "price": 250.0,
+        "reservationId": "R321",
+        "seatNumber": "22A",
+        "status": "Confirmed"
+    },
+    {
+        "boardingTime": "8:00",
+        "flightNumber": "DL222",
+        "gate": "A12",
+        "passengerId": "P512",
+        "passengerName": "John Doe",
+        "price": -2147476648.0,
+        "reservationId": "R42",
+        "seatNumber": "19E",
+        "status": "Checked-In"
+    },
+    {
+        "boardingTime": "15:00",
+        "flightNumber": "UA789",
+        "gate": "C4",
+        "passengerId": "P732",
+        "passengerName": "Gabriel",
+        "price": 300.0,
+        "reservationId": "R468",
+        "seatNumber": "30F",
+        "status": "Confirmed"
+    },
+    {
+        "boardingTime": "17:00",
+        "flightNumber": "UA780",
+        "gate": "9",
+        "passengerId": "P192",
+        "passengerName": "Jonnas",
+        "price": 250.0,
+        "reservationId": "R335",
+        "seatNumber": "30A",
+        "status": "Checked-In"
+    },
+    {
+        "boardingTime": "8:00",
+        "flightNumber": "AA123",
+        "gate": "A12",
+        "passengerId": "P324",
+        "passengerName": "Jane Doe",
+        "price": 0.0,
+        "reservationId": "R6881",
+        "seatNumber": "30E",
+        "status": "Checked-In"
+    },
+    {
+        "boardingTime": "8:00",
+        "flightNumber": "BA456",
+        "gate": "A12",
+        "passengerId": "P192",
+        "passengerName": "Jonnas",
+        "price": 250.0,
+        "reservationId": "R2183",
+        "seatNumber": "3A",
+        "status": "Pending"
+    }
+]

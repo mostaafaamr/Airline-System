@@ -1,0 +1,31 @@
+{
+    "AC123": {
+        "schedule": [
+            {
+                "date": "2024-03-20",
+                "description": "Fuel system diagnostics"
+            }
+        ],
+        "type": "Boeing 737"
+    },
+    "AC456": {
+        "schedule": [
+            {
+                "date": "2024-03-10",
+                "description": "Engine performance test"
+            },
+            {
+                "date": "2024-04-05",
+                "description": "Annual safety inspection"
+            }
+        ],
+        "type": "Airbus A320"
+    },
+    "AC639": {
+        "schedule": [
+            "2025-02-01",
+            "2025-03-01"
+        ],
+        "type": "Airbus A320"
+    }
+}

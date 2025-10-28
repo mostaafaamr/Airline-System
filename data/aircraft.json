@@ -1,0 +1,44 @@
+[
+    {
+        "aircraftId": "AC456",
+        "aircraftType": "Boeing 737",
+        "capacity": 180,
+        "maintenanceDue": "2025-10-08",
+        "status": "Active"
+    },
+    {
+        "aircraftId": "AC789",
+        "aircraftType": "Airbus A320",
+        "capacity": 180,
+        "maintenanceDue": "2025-05-18",
+        "status": "Under Maintenance"
+    },
+    {
+        "aircraftId": "AC123",
+        "aircraftType": "Boeing 777",
+        "capacity": 90,
+        "maintenanceDue": "2025-12-01",
+        "status": "Active"
+    },
+    {
+        "aircraftId": "AC421",
+        "aircraftType": "Airbus A320",
+        "capacity": 180,
+        "maintenanceDue": "2025-07-20",
+        "status": "Under Maintenance"
+    },
+    {
+        "aircraftId": "AC900",
+        "aircraftType": "Boeing 747",
+        "capacity": 120,
+        "maintenanceDue": "2027-08-08",
+        "status": "Active"
+    },
+    {
+        "aircraftId": "AC639",
+        "aircraftType": "Airbus A320",
+        "capacity": 180,
+        "maintenanceDue": "2027-02-01",
+        "status": "Active"
+    }
+]

@@ -1,0 +1,2120 @@
+[
+    {
+        "action": "Login",
+        "details": "",
+        "timestamp": "2023-10-15 14:30:00",
+        "userId": "P12"
+    },
+    {
+        "action": "Book Flight",
+        "details": "Flight AA123",
+        "timestamp": "2023-10-15 14:35:00",
+        "userId": "B11"
+    },
+    {
+        "action": "Cancel Reservation",
+        "details": "Reservation R789",
+        "timestamp": "2023-10-15 15:00:00",
+        "userId": "P12"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-07 14:17:31",
+        "userId": "P12"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-07 14:24:11",
+        "userId": "P12"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-07 14:24:53",
+        "userId": "P12"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-07 14:28:48",
+        "userId": "P12"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R468",
+        "role": "Passenger",
+        "timestamp": "2025-03-07 14:30:39",
+        "userId": "P12"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-07 14:31:33",
+        "userId": "P12"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-07 14:41:45",
+        "userId": "B11"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-07 14:45:27",
+        "userId": "B11"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-07 14:48:36",
+        "userId": "B11"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jason_mannRole: pass123",
+        "role": "admin",
+        "timestamp": "2025-03-07 14:54:33",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: P12",
+        "role": "admin",
+        "timestamp": "2025-03-07 15:16:44",
+        "userId": "P12"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: P12",
+        "role": "admin",
+        "timestamp": "2025-03-07 15:17:44",
+        "userId": "P12"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: P12",
+        "role": "admin",
+        "timestamp": "2025-03-07 15:17:58",
+        "userId": "P12"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: B11",
+        "role": "admin",
+        "timestamp": "2025-03-07 15:20:00",
+        "userId": "B11"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: P12",
+        "role": "admin",
+        "timestamp": "2025-03-07 15:28:24",
+        "userId": "P12"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: P12",
+        "role": "admin",
+        "timestamp": "2025-03-07 15:28:24",
+        "userId": "P12"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jane_doeRole: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-07 15:54:07",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jane_doeRole: passenger",
+        "role": "admin",
+        "timestamp": "2025-03-07 16:03:16",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Flight Performance Report",
+        "details": "",
+        "role": "admin",
+        "timestamp": "2025-03-07 16:07:21",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Aircraft",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-09 01:36:56",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Flight",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-09 02:21:10",
+        "userId": "A345"
+    },
+    {
+        "action": "Deleted Flight",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-09 02:38:46",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 02:45:28",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: john_doeRole: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-09 02:50:37",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Aircraft",
+        "details": "Aircraft Id: AC902",
+        "role": "admin",
+        "timestamp": "2025-03-09 02:54:06",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: john_doeRole: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-09 03:05:08",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Aircraft",
+        "details": "Aircraft Id: AC222",
+        "role": "admin",
+        "timestamp": "2025-03-09 03:06:41",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: john_doeRole: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-09 03:12:19",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Aircraft",
+        "details": "Aircraft Id: AC201",
+        "role": "admin",
+        "timestamp": "2025-03-09 03:14:05",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Aircraft",
+        "details": "Aircraft Id: AC253",
+        "role": "admin",
+        "timestamp": "2025-03-09 03:15:17",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jason_mannRole: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-09 03:34:03",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 03:36:05",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: A345",
+        "role": "admin",
+        "timestamp": "2025-03-09 04:06:17",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: A345",
+        "role": "admin",
+        "timestamp": "2025-03-09 04:06:17",
+        "userId": "A345"
+    },
+    {
+        "action": "Deleted Aircraft",
+        "details": "Aircraft Id: AC555",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:05:07",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:05:55",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: P324",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:15:39",
+        "userId": "P324"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: P324",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:16:11",
+        "userId": "P324"
+    },
+    {
+        "action": "Updated user",
+        "details": "User Id: P324",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:16:11",
+        "userId": "P324"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:28:16",
+        "userId": "A345"
+    },
+    {
+        "action": "Deleted Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:32:41",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:34:59",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:38:14",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:44:14",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:47:46",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:49:24",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:51:54",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 05:55:49",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 06:02:48",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 06:17:51",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 06:23:32",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 06:24:20",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 06:26:09",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 06:29:40",
+        "userId": "A345"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 06:37:02",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 06:39:50",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 06:40:30",
+        "userId": "P512"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R42",
+        "role": "Passenger",
+        "timestamp": "2025-03-09 06:40:55",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 06:41:25",
+        "userId": "P512"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 06:44:10",
+        "userId": "B11"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 06:45:30",
+        "userId": "B11"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 06:48:33",
+        "userId": "B11"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 06:58:40",
+        "userId": "B11"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 06:59:10",
+        "userId": "B11"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R42",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 07:00:19",
+        "userId": "B11"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 07:07:26",
+        "userId": "B11"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 07:11:43",
+        "userId": "B11"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 07:20:35",
+        "userId": "B11"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jamie_gelRole: Booking Agent",
+        "role": "admin",
+        "timestamp": "2025-03-09 08:18:40",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jamie_jonesRole: Booking Agent",
+        "role": "admin",
+        "timestamp": "2025-03-09 08:23:16",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: P512",
+        "role": "admin",
+        "timestamp": "2025-03-09 08:24:36",
+        "userId": "P512"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: P512",
+        "role": "admin",
+        "timestamp": "2025-03-09 08:24:47",
+        "userId": "P512"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: P512",
+        "role": "admin",
+        "timestamp": "2025-03-09 08:24:54",
+        "userId": "P512"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: P512",
+        "role": "admin",
+        "timestamp": "2025-03-09 08:25:01",
+        "userId": "P512"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC900",
+        "role": "admin",
+        "timestamp": "2025-03-09 08:26:41",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 08:31:18",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R1002",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 08:43:17",
+        "userId": "B201"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 08:44:44",
+        "userId": "P324"
+    },
+    {
+        "action": "Cancelled Reservation",
+        "details": "Reservation ID: R1004",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 08:48:34",
+        "userId": "B11"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 08:48:52",
+        "userId": "B11"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 08:49:21",
+        "userId": "B11"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R1003",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 08:57:04",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R1003",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 09:04:28",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R1003",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 09:04:34",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R1003",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 09:04:58",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R1003",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 09:05:02",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R1002",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 09:26:58",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R1002",
+        "role": "booking agent",
+        "timestamp": "2025-03-09 09:27:31",
+        "userId": "B201"
+    },
+    {
+        "action": "Deleted flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:28:46",
+        "userId": "UA780"
+    },
+    {
+        "action": "Added Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:32:33",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:35:27",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:35:58",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:36:15",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:36:32",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:36:47",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:37:01",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 10:44:24",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:09:10",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:09:25",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:16:18",
+        "userId": "A345"
+    },
+    {
+        "action": "Deleted flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:21:06",
+        "userId": "UA780"
+    },
+    {
+        "action": "Added Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:23:06",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA780",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:24:09",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Aircraft",
+        "details": "Aircraft Id: AC639",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:25:45",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC639",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:26:05",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jeremy_j, Role: Administrator",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:27:43",
+        "userId": "A345"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: A101",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:27:52",
+        "userId": "A101"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B201",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:28:12",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B201",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:28:25",
+        "userId": "B201"
+    },
+    {
+        "action": "Generated Flight Performance Report",
+        "details": "",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:28:58",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Maintenance Report for Aircraft",
+        "details": "Aircraft Id: AC456",
+        "role": "admin",
+        "timestamp": "2025-03-09 11:29:16",
+        "userId": "A345"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 11:30:18",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 13:36:15",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 13:37:16",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 13:38:16",
+        "userId": "P512"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R42",
+        "role": "Passenger",
+        "timestamp": "2025-03-09 13:38:48",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 13:42:13",
+        "userId": "P512"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R42",
+        "role": "Passenger",
+        "timestamp": "2025-03-09 13:45:10",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 13:45:43",
+        "userId": "P512"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R42",
+        "role": "Passenger",
+        "timestamp": "2025-03-09 13:46:05",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-09 13:46:08",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 01:12:09",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 01:15:37",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 01:16:20",
+        "userId": "P512"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R42",
+        "role": "Passenger",
+        "timestamp": "2025-03-12 01:21:11",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 01:22:06",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 01:24:17",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 01:34:17",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 01:34:57",
+        "userId": "P512"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 01:46:01",
+        "userId": "P512"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R42",
+        "role": "Passenger",
+        "timestamp": "2025-03-12 01:48:02",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 02:00:00",
+        "userId": "P512"
+    },
+    {
+        "action": "Added Flight",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-12 02:17:56",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Flight",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-12 02:23:24",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: AA123",
+        "role": "admin",
+        "timestamp": "2025-03-12 02:27:20",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: AA123",
+        "role": "admin",
+        "timestamp": "2025-03-12 02:27:37",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: AA123",
+        "role": "admin",
+        "timestamp": "2025-03-12 02:29:00",
+        "userId": "A345"
+    },
+    {
+        "action": "Deleted flight",
+        "details": "Flight Number: UA900",
+        "role": "admin",
+        "timestamp": "2025-03-12 02:32:45",
+        "userId": "UA900"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:37:07",
+        "userId": "B201"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:37:12",
+        "userId": "B201"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:39:18",
+        "userId": "B201"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:39:33",
+        "userId": "B201"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R468",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:41:23",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R42",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:43:44",
+        "userId": "B201"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R42",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:45:17",
+        "userId": "B201"
+    },
+    {
+        "action": "Cancelled Reservation",
+        "details": "Reservation ID: R468",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:54:53",
+        "userId": "B201"
+    },
+    {
+        "action": "Cancelled Reservation",
+        "details": "Reservation ID: R1003",
+        "role": "booking agent",
+        "timestamp": "2025-03-12 02:58:09",
+        "userId": "B201"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 02:59:15",
+        "userId": "P512"
+    },
+    {
+        "action": "Checked-In",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-12 03:05:58",
+        "userId": "P512"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: admin_2, Role: Administrator",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:07:08",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A129",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:07:30",
+        "userId": "A129"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A129",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:07:51",
+        "userId": "A129"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A129",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:09:01",
+        "userId": "A129"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A129",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:09:09",
+        "userId": "A129"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A129",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:10:17",
+        "userId": "A129"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A129",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:10:37",
+        "userId": "A129"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A120",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:10:52",
+        "userId": "A120"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A120",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:11:16",
+        "userId": "A120"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A120",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:11:28",
+        "userId": "A120"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A120",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:11:37",
+        "userId": "A120"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A120",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:11:51",
+        "userId": "A120"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: A120",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:12:51",
+        "userId": "A120"
+    },
+    {
+        "action": "Generated Flight Performance Report",
+        "details": "",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:17:02",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Flight Performance Report",
+        "details": "",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:20:52",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Maintenance Report for Aircraft",
+        "details": "Aircraft Id: AC789",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:21:26",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Maintenance Report for Aircraft",
+        "details": "Aircraft Id: AC123",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:23:11",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Maintenance Report for Aircraft",
+        "details": "Aircraft Id: AC123",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:24:03",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Maintenance Report for Aircraft",
+        "details": "Aircraft Id: AC123",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:34:01",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Flight Performance Report",
+        "details": "",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:35:07",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:43:06",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:48:50",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:53:56",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-12 03:57:24",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-12 04:02:58",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-12 04:59:00",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC421",
+        "role": "admin",
+        "timestamp": "2025-03-12 04:59:38",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Maintenance Log",
+        "details": "Aircraft Id: AC456",
+        "role": "admin",
+        "timestamp": "2025-03-12 05:00:15",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Maintenance Report for Aircraft",
+        "details": "Aircraft Id: AC639",
+        "role": "admin",
+        "timestamp": "2025-03-12 05:11:11",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-18 23:40:03",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: DL222",
+        "role": "admin",
+        "timestamp": "2025-03-18 23:42:35",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: DL222",
+        "role": "admin",
+        "timestamp": "2025-03-18 23:48:54",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: DL222",
+        "role": "admin",
+        "timestamp": "2025-03-18 23:54:54",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-21 04:22:03",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-21 04:58:30",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: joe jan, Role: Booking Agent",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:53:36",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:53:56",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:54:06",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:54:30",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:56:54",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:57:11",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:57:40",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:57:56",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:58:16",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:58:30",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: A129",
+        "role": "admin",
+        "timestamp": "2025-03-21 05:59:00",
+        "userId": "A129"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:10:11",
+        "userId": "B231"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: joee, Role: Booking Agent",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:10:35",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:10:55",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:11:57",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:12:10",
+        "userId": "B231"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:20:58",
+        "userId": "B231"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: joee, Role: Booking Agent",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:21:19",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:22:20",
+        "userId": "B231"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:40:39",
+        "userId": "B231"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: joee, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:40:57",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:41:31",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:54:12",
+        "userId": "B231"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:54:23",
+        "userId": "B231"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: joee, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:56:36",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 06:57:02",
+        "userId": "B231"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:10:57",
+        "userId": "B231"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: joee, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:11:17",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:11:50",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:12:10",
+        "userId": "B231"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:12:24",
+        "userId": "B231"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: joee, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:12:35",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:12:57",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:14:23",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:17:39",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:18:08",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:18:20",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:27:31",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:27:45",
+        "userId": "B231"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:27:54",
+        "userId": "B231"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: joee, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:28:03",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-21 07:28:10",
+        "userId": "B231"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jonas, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:34:35",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: B231",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:35:58",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: P192",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:37:53",
+        "userId": "P192"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: P192",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:46:20",
+        "userId": "P192"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jonnas, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:46:43",
+        "userId": "A345"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jonnas, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:50:40",
+        "userId": "A345"
+    },
+    {
+        "action": "Deleted user",
+        "details": "User ID: P192",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:50:58",
+        "userId": "P192"
+    },
+    {
+        "action": "Created user",
+        "details": "Username: jonnas, Role: Passenger",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:51:11",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated user",
+        "details": "User ID: P192",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:51:50",
+        "userId": "P192"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: UA789",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:52:25",
+        "userId": "A345"
+    },
+    {
+        "action": "Assigned Crew",
+        "details": "Flight Number: BA456",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:54:06",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: BA456",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:54:53",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: BA456",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:55:05",
+        "userId": "A345"
+    },
+    {
+        "action": "Added Flight",
+        "details": "Flight Number: AL392",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:57:21",
+        "userId": "A345"
+    },
+    {
+        "action": "Updated Flight",
+        "details": "Flight Number: AL392",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:59:32",
+        "userId": "A345"
+    },
+    {
+        "action": "Deleted flight",
+        "details": "Flight Number: AL392",
+        "role": "admin",
+        "timestamp": "2025-03-23 02:59:40",
+        "userId": "AL392"
+    },
+    {
+        "action": "Updated Aircraft",
+        "details": "Aircraft Id: AC639",
+        "role": "admin",
+        "timestamp": "2025-03-23 03:05:44",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Flight Performance Report",
+        "details": "",
+        "role": "admin",
+        "timestamp": "2025-03-23 03:10:57",
+        "userId": "A345"
+    },
+    {
+        "action": "Generated Maintenance Report for Aircraft",
+        "details": "Aircraft Id: AC639",
+        "role": "admin",
+        "timestamp": "2025-03-23 03:11:16",
+        "userId": "A345"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-23 23:43:42",
+        "userId": "B231"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-23 23:45:37",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-23 23:45:47",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-23 23:48:14",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-23 23:49:06",
+        "userId": "B231"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-23 23:54:27",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-23 23:58:33",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-23 23:58:56",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:00:27",
+        "userId": "B231"
+    },
+    {
+        "action": "Cancelled Reservation",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:01:00",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:08:21",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:09:32",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:10:32",
+        "userId": "B231"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:11:24",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:12:51",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:13:06",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:13:13",
+        "userId": "B231"
+    },
+    {
+        "action": "Updated Reservation",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 00:13:18",
+        "userId": "B231"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 00:14:01",
+        "userId": "P192"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 00:15:44",
+        "userId": "P192"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 00:17:37",
+        "userId": "P512"
+    },
+    {
+        "action": "Checked-In",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 00:18:44",
+        "userId": "P512"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 01:56:11",
+        "userId": "P192"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 01:57:01",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 01:58:32",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 01:59:27",
+        "userId": "B231"
+    },
+    {
+        "action": "Displayed Flights",
+        "details": "",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 01:59:59",
+        "userId": "B231"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R335",
+        "role": "booking agent",
+        "timestamp": "2025-03-24 02:01:25",
+        "userId": "B231"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:02:00",
+        "userId": "P192"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:02:36",
+        "userId": "P192"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:15:16",
+        "userId": "P192"
+    },
+    {
+        "action": "Checked-In",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:15:31",
+        "userId": "P192"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:21:51",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:23:26",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:31:37",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:32:43",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 02:32:57",
+        "userId": "P324"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:06:07",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:06:12",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:11:28",
+        "userId": "P324"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R6881",
+        "role": "Passenger",
+        "timestamp": "2025-03-24 03:11:55",
+        "userId": "P324"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:12:50",
+        "userId": "P324"
+    },
+    {
+        "action": "Checked-In",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:13:04",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:13:24",
+        "userId": "P324"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:21:30",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:21:33",
+        "userId": "P324"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:21:51",
+        "userId": "P324"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R2057",
+        "role": "Passenger",
+        "timestamp": "2025-03-24 03:24:08",
+        "userId": "P324"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-24 03:24:12",
+        "userId": "P324"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-25 03:39:00",
+        "userId": "P192"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-25 03:39:06",
+        "userId": "P192"
+    },
+    {
+        "action": "Searched Flights",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-25 03:39:19",
+        "userId": "P192"
+    },
+    {
+        "action": "Booked Flight",
+        "details": "Reservation ID: R2183",
+        "role": "Passenger",
+        "timestamp": "2025-03-25 03:40:01",
+        "userId": "P192"
+    },
+    {
+        "action": "Viewed Reservations",
+        "details": "",
+        "role": "passenger",
+        "timestamp": "2025-03-25 03:40:03",
+        "userId": "P192"
+    },
+    {
+        "action": "Cancelled Reservation",
+        "details": "Reservation ID: R2057",
+        "role": "booking agent",
+        "timestamp": "2025-03-25 03:42:44",
+        "userId": "B231"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "aircraftModel": "Airbus A320",
+        "arrival": "2024-03-10 13:30:00Z",
+        "availableSeats": 53,
+        "departure": "2024-03-10 09:00:00Z",
+        "destination": "Chicago",
+        "flightNumber": "BA456",
+        "origin": "Florida",
+        "price": 250.0,
+        "status": "On Time",
+        "totalSeats": 90
+    },
+    {
+        "aircraftModel": "Boeing 737",
+        "arrival": "2024-03-15 18:00:00Z",
+        "availableSeats": 65,
+        "departure": "2025-03-15 15:00:00Z",
+        "destination": "Los Angeles",
+        "flightNumber": "AA123",
+        "origin": "New York",
+        "price": 320.0,
+        "status": "Scheduled",
+        "totalSeats": 180
+    },
+    {
+        "aircraftModel": "Boeing 747",
+        "arrival": "2024-04-01 14:00:00Z",
+        "availableSeats": 65,
+        "departure": "2024-04-01 10:00:00Z",
+        "destination": "Chicago",
+        "flightNumber": "DL222",
+        "origin": "Seattle",
+        "price": 600.0,
+        "status": "On Time",
+        "totalSeats": 120
+    },
+    {
+        "aircraftModel": "Airbus A320",
+        "arrival": "2024-03-25 19:00:00Z",
+        "availableSeats": 179,
+        "departure": "2024-03-25 18:00:00Z",
+        "destination": "New York",
+        "flightNumber": "UA780",
+        "origin": "LA",
+        "price": 250.0,
+        "status": "Scheduled",
+        "totalSeats": 180
+    },
+    {
+        "aircraftModel": "Airbus A320",
+        "arrival": "2025-03-25 20:00:00Z",
+        "availableSeats": 177,
+        "departure": "2025-03-25 16:00:00Z",
+        "destination": "Texas",
+        "flightNumber": "UA789",
+        "origin": "LA",
+        "price": 300.0,
+        "status": "Scheduled",
+        "totalSeats": 180
+    }
+]

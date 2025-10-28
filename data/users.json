@@ -1,0 +1,50 @@
+[
+    {
+        "id": "B11",
+        "password": "hashed_password_456",
+        "role": "Booking Agent",
+        "username": "jane_smith"
+    },
+    {
+        "id": "A345",
+        "password": "0000",
+        "role": "Administrator",
+        "username": "admin_user"
+    },
+    {
+        "id": "P324",
+        "password": "pass333",
+        "role": "Passenger",
+        "username": "jane_doe"
+    },
+    {
+        "id": "P512",
+        "password": "pass",
+        "role": "Passenger",
+        "username": "john_doe"
+    },
+    {
+        "id": "B201",
+        "password": "1000",
+        "role": "Booking Agent",
+        "username": "jamie_jon"
+    },
+    {
+        "id": "A129",
+        "password": "1111",
+        "role": "administrator",
+        "username": "admin_12"
+    },
+    {
+        "id": "B231",
+        "password": "123",
+        "role": "Booking Agent",
+        "username": "joe"
+    },
+    {
+        "id": "P192",
+        "password": "1000",
+        "role": "Passenger",
+        "username": "jonnas"
+    }
+]
